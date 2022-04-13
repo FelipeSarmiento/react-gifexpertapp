@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.832776f2.chunk.css",
-    "main.js": "/static/js/main.f84ecea4.chunk.js",
-    "main.js.map": "/static/js/main.f84ecea4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.95118175.js",
-    "runtime-main.js.map": "/static/js/runtime-main.95118175.js.map",
-    "static/js/2.629c55af.chunk.js": "/static/js/2.629c55af.chunk.js",
-    "static/js/2.629c55af.chunk.js.map": "/static/js/2.629c55af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4af17e8279aef118cf3afd33a7eb47f9.js": "/precache-manifest.4af17e8279aef118cf3afd33a7eb47f9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.832776f2.chunk.css.map": "/static/css/main.832776f2.chunk.css.map",
-    "static/js/2.629c55af.chunk.js.LICENSE.txt": "/static/js/2.629c55af.chunk.js.LICENSE.txt"
+    "main.css": "/react-gifexpertapp/static/css/main.832776f2.chunk.css",
+    "main.js": "/react-gifexpertapp/static/js/main.f84ecea4.chunk.js",
+    "main.js.map": "/react-gifexpertapp/static/js/main.f84ecea4.chunk.js.map",
+    "runtime-main.js": "/react-gifexpertapp/static/js/runtime-main.32f2a6a4.js",
+    "runtime-main.js.map": "/react-gifexpertapp/static/js/runtime-main.32f2a6a4.js.map",
+    "static/js/2.629c55af.chunk.js": "/react-gifexpertapp/static/js/2.629c55af.chunk.js",
+    "static/js/2.629c55af.chunk.js.map": "/react-gifexpertapp/static/js/2.629c55af.chunk.js.map",
+    "index.html": "/react-gifexpertapp/index.html",
+    "precache-manifest.165cbce94b1e4ead68a47d2dcd151428.js": "/react-gifexpertapp/precache-manifest.165cbce94b1e4ead68a47d2dcd151428.js",
+    "service-worker.js": "/react-gifexpertapp/service-worker.js",
+    "static/css/main.832776f2.chunk.css.map": "/react-gifexpertapp/static/css/main.832776f2.chunk.css.map",
+    "static/js/2.629c55af.chunk.js.LICENSE.txt": "/react-gifexpertapp/static/js/2.629c55af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95118175.js",
+    "static/js/runtime-main.32f2a6a4.js",
     "static/js/2.629c55af.chunk.js",
     "static/css/main.832776f2.chunk.css",
     "static/js/main.f84ecea4.chunk.js"
